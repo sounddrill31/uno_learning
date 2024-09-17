@@ -1,0 +1,13 @@
+﻿global using System.Collections.Immutable;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Hosting;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;
+global using Microsoft.Extensions.Options;
+global using uno_learning.Models;
+global using uno_learning.Presentation;
+global using uno_learning.DataContracts;
+global using uno_learning.DataContracts.Serialization;
+global using uno_learning.Services.Caching;
+global using uno_learning.Services.Endpoints;
+global using ApplicationExecutionState = Windows.ApplicationModel.Activation.ApplicationExecutionState;

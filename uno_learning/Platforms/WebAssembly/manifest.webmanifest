@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "uno_learning",
+  "display": "standalone",
+  "name": "uno_learning",
+  "short_name": "uno_learning",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
